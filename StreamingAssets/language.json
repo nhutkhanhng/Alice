@@ -1,0 +1,185 @@
+{
+  "_meta": {
+    "maxChars": {
+      "UI_TEACHER_BOT": 10,
+      "UI_NEWGAME": 10,
+      "UI_PLAY": 5,
+      "UI_NEXT": 5,
+      "WEL_COME": 10,
+
+      "UI_HOME_DES_1": 150,
+      "UI_HOME_DES_2": 150,
+      "UI_HOME_DES_3": 150,
+
+      "UI_BIOSPHERE": 20,
+      "UI_GEOSPHERE": 20,
+      "UI_HYDROSPHERE": 20,
+      "UI_ATMOSPHERE": 20,
+
+
+      "UI_EXPLORE_HOME_1": 150,
+      "UI_EXPLORE_HOME_2": 150,
+      "UI_EXPLORE_HOME_3": 150,
+
+      "UI_EXPLORE_HYDRO_DES_INTRO": 150,
+      "UI_EXPLORE_HYDRO_DES_1": 150,
+
+      "UI_EXPLORE_GEO_DES_INTRO": 150,
+      "UI_EXPLORE_GEO_DES_1": 150,
+
+      "UI_EXPLORE_BIOS_DES_INTRO": 150,
+      "UI_EXPLORE_BIOS_DES_1": 150,
+
+      "UI_EXPLORE_ATMOS_DES_INTRO": 150,
+      "UI_EXPLORE_ATMOS_DES_1": 150,
+
+
+      "UI_EXPLORE_ICE": 10,
+      "UI_EXPLORE_GROUNDWATER": 10,
+      "UI_EXPLORE_LAKE": 10,
+      "UI_EXPLORE_OCEAN": 10,
+      "UI_EXPLORE_RIVER": 10,
+      "UI_EXPLORE_STREAM": 10,
+      "UI_EXPLORE_CONTINENT": 10,
+      "UI_EXPLORE_LAVA": 10,
+      "UI_EXPLORE_METAL": 10,
+      "UI_EXPLORE_STONE": 10,
+      "UI_EXPLORE_MOUTAIN": 10,
+      "UI_EXPLORE_SOIL": 10,
+      "UI_EXPLORE_BIRDS": 10,
+      "UI_EXPLORE_FLOWERS": 10,
+      "UI_EXPLORE_FISH": 10,
+      "UI_EXPLORE_TREES": 10,
+      "UI_EXPLORE_HUMAN": 10,
+      "UI_EXPLORE_DEER": 10,
+      "UI_EXPLORE_AIR": 10,
+      "UI_EXPLORE_GAS": 10,
+      "UI_EXPLORE_ROCK": 10,
+
+      "UI_JIGSAW_DES_1": 10,
+
+      "UI_LDSP_GOODJOB": 20,
+      "UI_LDSP_D1": 150,
+      "UI_LDSP_LETS_TRY_AGAIN": 30,
+
+      "UI_EARTH_DES_1": 150,
+      "UI_EARTH_BOOK_D1": 150,
+      "UI_EARTH_WAVE_D1": 150,
+      "UI_EARTH_RIVER_D1": 150,
+
+      "UI_EARTH_CLOUD_D1": 150,
+      "UI_EARTH_CLOUD_D2": 150,
+      "UI_EARTH_SUN_D1": 150,
+      "UI_EARTH_SUN_D2": 150,
+      "UI_EARTH_FISH_D1": 150,
+      "UI_EARTH_COMPLETED": 150,
+
+      "UI_HELICOPTER_DES1": 150,
+      "UI_HELICOPTER_DES2": 150,
+
+      "UI_HELICOPTER_DIED": 50,
+      "UI_HELI_FACE_OBSTACLE": 60,
+      "UI_HELICOPTER_WELLDONE": 20,
+      "UI_HELICOPER_TRYAGAIN": 20,
+      "UI_HELICOPTER_CORRECT": 20,
+      "UI_HELICOPTER_WRONG": 20,
+      "UI_HELICOPTER_MYTURN": 20,
+      "UI_WIN_CONGRATULATION": 20,
+      "UI_WIN_THANKS_FOR": 150
+    }
+  },
+  "en": {
+    "UI_TEACHER_BOT": "Teacher B",
+    "UI_NEWGAME": "New Game",
+    "UI_PLAY": "Play",
+    "UI_NEXT": "Next",
+    "WEL_COME": "welcome",
+
+    "UI_HOME_DES_1": "Hello everyone, Earth will be the destination of today's class field trip",
+    "UI_HOME_DES_2": "We will learn about the cycling of matter and energy on earth",
+    "UI_HOME_DES_3": "Follow me, let's explore this wonderful planet together",
+
+    "UI_BIOSPHERE": "Biosphere",
+    "UI_GEOSPHERE": "Geosphere",
+    "UI_HYDROSPHERE": "Hydrosphere",
+    "UI_ATMOSPHERE": "Atmosphere",
+
+    "UI_EXPLORE_HOME_COMPLETED": "Congratulations on discovering it all!",
+
+    "UI_EXPLORE_HOME_1": "Earth is a complex system of interacting subsystems: the geosphere, hydrosphere, atmosphere, and biosphere.",
+    "UI_EXPLORE_HOME_2": "Choose the following concepts",
+    "UI_EXPLORE_HOME_3": "Select the items on the screen to learn about each system ",
+
+    "UI_EXPLORE_RERUN_1": "Choose the following concepts",
+
+    "UI_EXPLORE_HYDRO_DES_INTRO": "the following terrains belong to Hydrosphere",
+    "UI_EXPLORE_HYDRO_DES_1": "Earth's water in liquid, ice, oceans, rivers, lakes, glaciers and groundwater.",
+
+    "UI_EXPLORE_GEO_DES_INTRO": "The following terrains belong to Geosphere",
+    "UI_EXPLORE_GEO_DES_1": "Includes a hot and mostly metallic inner core: a mantle of hot, soft, solid rock and a crust of rock, soil and sediments",
+
+    "UI_EXPLORE_BIOS_DES_INTRO": "The following terrains belong to Biosphere",
+    "UI_EXPLORE_BIOS_DES_1": "living things, including humans",
+
+    "UI_EXPLORE_ATMOS_DES_INTRO": "the following terrains belong to Atmosphere",
+    "UI_EXPLORE_ATMOS_DES_1": "Air, all of the gases surrounding the Earth",
+
+
+    "UI_EXPLORE_ICE": "Ice",
+    "UI_EXPLORE_GROUNDWATER": "Ground Water",
+    "UI_EXPLORE_LAKE": "Lake",
+    "UI_EXPLORE_OCEAN": "Ocean",
+    "UI_EXPLORE_RIVER": "River",
+    "UI_EXPLORE_STREAM": "Stream",
+    "UI_EXPLORE_CONTINENT": "Continent",
+    "UI_EXPLORE_LAVA": "Lava",
+    "UI_EXPLORE_METAL": "Metal",
+    "UI_EXPLORE_STONE": "Stone",
+    "UI_EXPLORE_MOUTAIN": "Mountain",
+    "UI_EXPLORE_SOIL": "Soil",
+    "UI_EXPLORE_BIRDS": "Birds",
+    "UI_EXPLORE_FLOWERS": "Flowers",
+    "UI_EXPLORE_FISH": "Fish",
+    "UI_EXPLORE_TREES": "Trees",
+    "UI_EXPLORE_HUMAN": "Human",
+    "UI_EXPLORE_DEER": "Deer",
+    "UI_EXPLORE_AIR": "Air",
+    "UI_EXPLORE_GAS": "Gases",
+    "UI_EXPLORE_ROCK": "Rock",
+
+    "UI_JIGSAW_DES_1": "Drag and drop the icons below into the correct categories to continue!",
+
+    "UI_LDSP_GOODJOB": "Good job, guys",
+    "UI_LDSP_D1": "Let's fly to earth together. \n Please avoid the satellites around the earth to be able to land safely.",
+    "UI_LDSP_LETS_TRY_AGAIN": "Let's try again",
+
+    "UI_EARTH_DES_1": "Wow, The earth is so beautiful! We will learn a lot of new things here",
+    "UI_EARTH_BOOK_D1": "All the information you need is in this book, Find the items and start our lesson. Let's go!",
+    "UI_EARTH_WAVE_D1": "Water waves from the ocean shape coastal landforms.",
+    "UI_EARTH_RIVER_D1": "Weather conditions, such as rainfall, can shape the landforms on Earth through weathering and erosion",
+
+    "UI_EARTH_MOUNTAIN_D1": "look at those mountains!",
+    "UI_EARTH_MOUNTAIN_D2": "Do you know that : Erosion is the process by which rock, soil, and/or sediments are transported from one location to another",
+    "UI_EARTH_CLOUD_D1": "Take a look at those beautiful clouds are floating in the sky. In the water cycle, water vapor in the atmosphere cools and condenses to form clouds",
+    "UI_EARTH_CLOUD_D2": "The Sun provides heat energy that causes the water cycle to flow on Earth. Water can flow between the ground, air, and organisms on Earth in many different pathways through the water cycle",
+    "UI_EARTH_SUN_D1": "In the water cycle, heat energy from the Sun, causes water in the ocean to increase in temperature and evaporate into a gas",
+    "UI_EARTH_SUN_D2": "Climate describes the typical weather conditions in an area over a long period of time. \n If there is no rain for a long time, the heat from the sun will dry the land",
+    "UI_EARTH_FISH_D1": "That fish is swimming fast!! \n - The ocean supports a variety of ecosystems and organisms. \n - Weather and climate affect the types of living things found in a region.",
+    "UI_EARTH_COMPLETED": "WE HAD SUCH A GOOD TIME HERE ON EATH! IT'S TIME TO GO HOME, GUYS!",
+
+    "UI_HELICOPTER_DES1": "We had such a good time here on earth ! It's time to go home, Guys!",
+    "UI_HELICOPTER_DES2": "CLICK and HOLD LEFT MOUSE BUTTON to go up, release to go down",
+
+    "UI_HELICOPTER_DIED": "oops let's try again",
+    "UI_HELI_FACE_OBSTACLE": "Oh no! There is an obstacle in front of us! What should we do?",
+    "UI_HELICOPTER_WELLDONE": "Well done!",
+    "UI_HELICOPER_TRYAGAIN": "Try again",
+    "UI_HELICOPTER_CORRECT": "You are correct",
+    "UI_HELICOPTER_WRONG": "You are wrong",
+    "UI_HELICOPTER_MYTURN": "My turn !",
+    "UI_WIN_CONGRATULATION": "CONGRATULATION!",
+    "UI_WIN_THANKS_FOR": "Thanks for your learning with us."
+
+
+  }
+}
